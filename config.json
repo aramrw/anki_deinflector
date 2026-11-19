@@ -1,0 +1,18 @@
+{
+  "enabled": true,
+  "language": "es",
+  "deck_languages": {
+    "deutch": "de",
+    "deutsch": "de",
+    "german": "de",
+    "espanol": "es",
+    "español": "es",
+    "spanish": "es"
+  },
+  "word_field": "wordDictionaryForm",
+  "sentence_field": "sentence",
+  "sentence_element_id": "sentence",
+  "highlight_class": "highlight",
+  "deck_prefixes": [],
+  "binary_path": "/Users/aramsamifanni/Programming/yomichan/yomichan_rs_workspace/target/release/deinflector"
+}
